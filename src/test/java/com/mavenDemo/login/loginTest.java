@@ -8,8 +8,8 @@ public class loginTest {
 	public void m1()
 	{
 		System.out.println("m1 login");
-		System.out.println("m1 login Edit1");
-		System.out.println("m1 login Edit2");
+		System.out.println("m1 login Edit3");
+		System.out.println("m1 login Edit3");
 	}
 	@Test
 	public void m2()
