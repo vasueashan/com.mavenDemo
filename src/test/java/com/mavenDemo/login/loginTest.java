@@ -9,7 +9,7 @@ public class loginTest {
 	{
 		System.out.println("m1 login");
 		System.out.println("m1 login Edit3");
-		System.out.println("m1 loginEdit6");
+		System.out.println("m1 login vasuEdit6");
 	}
 	@Test
 	public void m2()
