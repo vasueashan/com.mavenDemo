@@ -17,8 +17,9 @@ public class loginTest {
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager/4.4.3");
-		Thread.sleep(4000);
+		Thread.sleep(2000);
 		driver.quit();
+		System.out.println("Ended login");
 		
 	}
 	@Test
