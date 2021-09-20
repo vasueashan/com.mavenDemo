@@ -14,7 +14,7 @@ public class loginTest {
 	@Test
 	public void m1() throws InterruptedException
 	{
-		System.out.println("m1 login");
+		System.out.println("m1 login1");
 		System.out.println("m1 login Edit3");
 		System.out.println("m1 loginvasuEdit6");//chnages  done
 		/*
