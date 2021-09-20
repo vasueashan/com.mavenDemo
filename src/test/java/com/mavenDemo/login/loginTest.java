@@ -40,6 +40,7 @@ public class loginTest {
 		Thread.sleep(2000);
 		driver.quit();
 		System.out.println("Ended login");
+		System.out.println("Ended login2");
 		
 	}
 	@Test
